@@ -77,6 +77,7 @@ Para correrlo usamos
 ./main
 ```
 y observamos que sucede en la consola
-[![Hola go](./001/terminal3.png)](https://google.com)
 
-Como observamos pudimos crear, compilar y correr nuestro programa desde la consola un éxito.# go
+[![Hola go](./001/terminal3.png)](#)
+
+Como observamos pudimos crear, compilar y correr nuestro programa desde la consola un éxito.
