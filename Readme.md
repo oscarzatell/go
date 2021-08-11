@@ -1,5 +1,11 @@
 # Go lang [Lenguaje Go]
 
+## Instalacion
+
+```BASH
+wget https://golang.org/dl/go1.16.7.linux-amd64.tar.gz && tar -C /usr/local -xzf go1.16.7.linux-amd64.tar.gz && export PATH=$PATH:/usr/local/go/bin && go version
+```
+
 A partir de aquí simplemente llamaré a "go lang" simplemente "go" para ahorrar letras
 
 > En go todo es un paquete ya veremos por que 
