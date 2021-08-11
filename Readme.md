@@ -86,4 +86,4 @@ y observamos que sucede en la consola
 
 [![Hola go](./001/terminal3.png)](#)
 
-Como observamos pudimos crear, compilar y correr nuestro programa desde la consola un éxito.
+Como observamos pudimos crear, compilar y correr nuestro programa desde la consola, un éxito.
